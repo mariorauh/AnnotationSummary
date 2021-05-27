@@ -1,6 +1,6 @@
 # Annotation Summary
 
-Version: 0.0.1
+Version: v0.0.1
 
 ## What to use it for?
 
